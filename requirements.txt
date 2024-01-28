@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+glob2
+opencv-python
+hdbscan
+statistics
+scikit-learn
+flask
+
+-e .
